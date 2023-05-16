@@ -1,0 +1,5 @@
+validEquivalenceClass: [5, 18, 66]
+invalidEquivalenceClass: ["x", False, 1.5]
+successBoundaryValue: [1,2,98,99]
+failBoundaryValue: [0, 100]
+

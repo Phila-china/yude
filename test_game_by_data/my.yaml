@@ -1,0 +1,12 @@
+client:
+  default-character-set: utf8
+custom:
+  user1:
+    pwd: 666
+    user: 张三
+  user2:
+    pwd: 999
+    user: 李四
+mysql:
+  password: 123
+  user: root
